@@ -1,14 +1,31 @@
 [
-    {
-      "project_name": "CRM Of Task Completed ",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CRM-TaskCompleted.png",
-      "description": "Creating Customize CRM with intergate with Whatsapp , LinkedIn , also use to manage the Student Task ...",
-      "source_link": "https://github.com/ratheeshcoder",
-      "live_link": "N/A",
-      "tech_stack": ["Vite.js","TailwindCSS","Node.js","Express.js","MongoDB", "Whatsapp-Web.js"]
-    }, {
-      "project_name": "Company Portfolio ",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CompanyPortfolio.jpg",
+  {
+  "project_name": "CareerCompass, AI Agent",
+  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CareerCompass.png",
+  "description": "Enabled students to enter a domain of interest, get strategy questions, receive AI role recommendations, and view a complete learning roadmap. Completed the entire project — architecture, workflow, design, frontend, and backend — single-handedly in 24 hours (08/25 - 08/25).",
+  "source_link": "https://github.com/ratheeshcoder",
+  "live_link": "N/A",
+  "tech_stack": ["LangChain", "LLM Models", "Python (FastAPI)", "Vite.js", "TailwindCSS", "Node.js", "Express.js", "MongoDB"]
+},
+{
+  "project_name": "MatchMind, Agentic AI",
+  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/MatchMind.png",
+  "description": "Built an AI platform to match students with companies based on skills, culture, and goals. Used AI frameworks like RAG and LangGraph to deliver accurate recommendations. (06/25 - 08/25)",
+  "source_link": "https://github.com/ratheeshcoder",
+  "live_link": "N/A",
+  "tech_stack": ["RAG", "LangGraph", "Python (FastAPI)", "Vite.cssmodules", "TailwindCSS", "Node.cssmodules", "Express.cssmodules", "MongoDB"]
+},
+{
+  "project_name": "CRM Of Task Completed ",
+  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CRM-TaskCompleted.png",
+  "description": "Creating Customize CRM with intergate with Whatsapp , LinkedIn , also use to manage the Student Task ...",
+  "source_link": "https://github.com/ratheeshcoder",
+  "live_link": "N/A",
+  "tech_stack": ["Vite.cssmodules","TailwindCSS","Node.cssmodules","Express.cssmodules","MongoDB", "Whatsapp-Web.cssmodules"]
+},
+{
+  "project_name": "Company Portfolio ",
+  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CompanyPortfolio.jpg",
       "description": "Crafting digital excellence as a web developer—turning visions into vibrant online realities ...",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
@@ -28,7 +45,7 @@
       "description": "Elevated commuter journeys through my innovative Bus Tracking System—a web developer's touch on seamless transit...",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","Three.js","JS","BootStrap","CSS"]
+      "tech_stack": ["html5","Three.js","javascript","BootStrap","CSS"]
     },
     {
       "project_name": "3D car Game ",
@@ -36,7 +53,7 @@
       "description": "Get ready for a thrilling ride in my 3D car game! Test your skills and conquer the road. Play now!...",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","Three.js","JS","BootStrap","CSS"]
+      "tech_stack": ["html5","Three.js","javascript","BootStrap","CSS"]
     },
     {
       "project_name": "Dashboard",
@@ -44,7 +61,7 @@
       "description": "Created a dynamic and intuitive dashboard that transforms complex data into actionable insights, empowering informed decision-making..",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["React","MUI","HTML","BootStrap","CSS"]
+      "tech_stack": ["React","MUI","html5","BootStrap","CSS"]
     },
     {
       "project_name": "Resume Generator",
@@ -52,7 +69,7 @@
       "description": "Created a dynamic Resume Generator project that empowers users to effortlessly generate professional resumes by inputting their information, streamlining the job application process.",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["React","CSS","BootStrap","HTML","Figma","JSON"]
+      "tech_stack": ["React","CSS","BootStrap","html5","Figma","JSON"]
     },
   
     {
@@ -61,7 +78,7 @@
       "description": "Revolutionized user feedback with a dynamic hostel complaint app, streamlining communication and enhancing the living experience.",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","CSS","JavaScript","Low code","Figma"]
+      "tech_stack": ["html5","CSS","JavaScript","Figma"]
     },
   
     {
@@ -70,7 +87,7 @@
       "description": "An innovative fitness companion that streamlines workout scheduling, tracking, and progress analysis, making every fitness journey a well-guided adventure.",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","CSS","JavaScript","Low code","Figma"]
+      "tech_stack": ["html5","CSS","JavaScript","Figma"]
     },
   
     {
@@ -79,7 +96,7 @@
       "description": "I reimagined and revitalized the Jarvis AI concept, infusing it with modern technologies and intuitive user interactions, resulting in an AI assistant that seamlessly integrates into daily tasks",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["Python","Flask","HTML","CSS","JS"]
+      "tech_stack": ["Python","Flask","html5","CSS","javascript"]
     },
       {
       "project_name": "E-commerce Website",
@@ -87,7 +104,7 @@
       "description": "Crafted a dynamic e-commerce platform that seamlessly connects customers with products, ensuring a user-friendly shopping experience",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","CSS","SCSS","PHP","MySql"]
+      "tech_stack": ["html5","CSS","cssmodules","PHP","MySql"]
     },
      {
       "project_name": "Resturant Website",
@@ -95,7 +112,7 @@
       "description": "Crafted an immersive online presence for a renowned restaurant, seamlessly blending captivating visuals with user-friendly navigation, resulting in increased engagement and reservations.",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","CSS","SCSS","WordPress"]
+      "tech_stack": ["html5","CSS","cssmodules","WordPress"]
     },
    {
       "project_name": "Woo Commerce Shopping  Website",
@@ -103,7 +120,7 @@
       "description": "Crafted a seamless WooCommerce shopping experience, blending intuitive design with robust functionality.",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","CSS","SCSS","WordPress","Woo Commerce "]
+      "tech_stack": ["html5","CSS","cssmodules","WordPress","woocommerce "]
     },
     {
       "project_name": "100 Days Frontend Challenge",
@@ -111,7 +128,7 @@
       "description": "Conquered the 100 Days Frontend Challenge, crafting captivating web interfaces and pushing my creative and coding boundaries.",
       "source_link": "https://github.com/ratheeshcoder",
       "live_link": "N/A",
-      "tech_stack": ["HTML","CSS","SCSS","JS"]
+      "tech_stack": ["html5","CSS","cssmodules","javascript"]
     },
    {
       "project_name": "50 Days Blender Challenge",
