@@ -1,140 +1,140 @@
 [
   {
   "project_name": "CareerCompass, AI Agent",
-  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CareerCompass.png",
+  "image_url": "https://iamratheesh.github.io/portfolio/assets/CareerCompass.png",
   "description": "Enabled students to enter a domain of interest, get strategy questions, receive AI role recommendations, and view a complete learning roadmap. Completed the entire project — architecture, workflow, design, frontend, and backend — single-handedly in 24 hours (08/25 - 08/25).",
-  "source_link": "https://github.com/ratheeshcoder",
+  "source_link": "https://github.com/iamratheesh",
   "live_link": "N/A",
   "tech_stack": ["LangChain", "LLM Models", "Python (FastAPI)", "Vite.js", "TailwindCSS", "Node.js", "Express.js", "MongoDB"]
 },
 {
   "project_name": "MatchMind, Agentic AI",
-  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/MatchMind.png",
+  "image_url": "https://iamratheesh.github.io/portfolio/assets/MatchMind.png",
   "description": "Built an AI platform to match students with companies based on skills, culture, and goals. Used AI frameworks like RAG and LangGraph to deliver accurate recommendations. (06/25 - 08/25)",
-  "source_link": "https://github.com/ratheeshcoder",
+  "source_link": "https://github.com/iamratheesh",
   "live_link": "N/A",
   "tech_stack": ["RAG", "LangGraph", "Python (FastAPI)", "Vite.cssmodules", "TailwindCSS", "Node.cssmodules", "Express.cssmodules", "MongoDB"]
 },
 {
   "project_name": "CRM Of Task Completed ",
-  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CRM-TaskCompleted.png",
+  "image_url": "https://iamratheesh.github.io/portfolio/assets/CRM-TaskCompleted.png",
   "description": "Creating Customize CRM with intergate with Whatsapp , LinkedIn , also use to manage the Student Task ...",
-  "source_link": "https://github.com/ratheeshcoder",
+  "source_link": "https://github.com/iamratheesh",
   "live_link": "N/A",
   "tech_stack": ["Vite.cssmodules","TailwindCSS","Node.cssmodules","Express.cssmodules","MongoDB", "Whatsapp-Web.cssmodules"]
 },
 {
   "project_name": "Company Portfolio ",
-  "image_url": "https://ratheeshcoder.github.io/portfolio/assets/CompanyPortfolio.jpg",
+  "image_url": "https://iamratheesh.github.io/portfolio/assets/CompanyPortfolio.jpg",
       "description": "Crafting digital excellence as a web developer—turning visions into vibrant online realities ...",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["React.js","TailwindCSS","Node.js","Express.js","MongoDB"]
     },
      {
       "project_name": "College department Tracking ",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/college.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/college.jpg",
       "description": "Revolutionized college department tracking with my latest web development project. Seamless processes, enhanced user experience ...",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["React.js","TailwindCSS","Node.js","Express.js","MongoDB"]
     },
     {
       "project_name": "Bus Tracking System ",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/bus.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/bus.jpg",
       "description": "Elevated commuter journeys through my innovative Bus Tracking System—a web developer's touch on seamless transit...",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","Three.js","javascript","BootStrap","CSS"]
     },
     {
       "project_name": "3D car Game ",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/car-game.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/car-game.jpg",
       "description": "Get ready for a thrilling ride in my 3D car game! Test your skills and conquer the road. Play now!...",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","Three.js","javascript","BootStrap","CSS"]
     },
     {
       "project_name": "Dashboard",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/dashboard.png",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/dashboard.png",
       "description": "Created a dynamic and intuitive dashboard that transforms complex data into actionable insights, empowering informed decision-making..",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["React","MUI","html5","BootStrap","CSS"]
     },
     {
       "project_name": "Resume Generator",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/Resume.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/Resume.jpg",
       "description": "Created a dynamic Resume Generator project that empowers users to effortlessly generate professional resumes by inputting their information, streamlining the job application process.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["React","CSS","BootStrap","html5","Figma","JSON"]
     },
   
     {
       "project_name": "Hostel Complent App",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/Hostel.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/Hostel.jpg",
       "description": "Revolutionized user feedback with a dynamic hostel complaint app, streamlining communication and enhancing the living experience.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","CSS","JavaScript","Figma"]
     },
   
     {
       "project_name": "Gym Book App",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/Gym.png",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/Gym.png",
       "description": "An innovative fitness companion that streamlines workout scheduling, tracking, and progress analysis, making every fitness journey a well-guided adventure.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","CSS","JavaScript","Figma"]
     },
   
     {
       "project_name": "Jarvis Recreate",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/Jarvis.jpeg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/Jarvis.jpeg",
       "description": "I reimagined and revitalized the Jarvis AI concept, infusing it with modern technologies and intuitive user interactions, resulting in an AI assistant that seamlessly integrates into daily tasks",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["Python","Flask","html5","CSS","javascript"]
     },
       {
       "project_name": "E-commerce Website",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/E-commerce.png",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/E-commerce.png",
       "description": "Crafted a dynamic e-commerce platform that seamlessly connects customers with products, ensuring a user-friendly shopping experience",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","CSS","cssmodules","PHP","MySql"]
     },
      {
       "project_name": "Resturant Website",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/Resturant.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/Resturant.jpg",
       "description": "Crafted an immersive online presence for a renowned restaurant, seamlessly blending captivating visuals with user-friendly navigation, resulting in increased engagement and reservations.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","CSS","cssmodules","WordPress"]
     },
    {
       "project_name": "Woo Commerce Shopping  Website",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/WooCommerce.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/WooCommerce.jpg",
       "description": "Crafted a seamless WooCommerce shopping experience, blending intuitive design with robust functionality.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","CSS","cssmodules","WordPress","woocommerce "]
     },
     {
       "project_name": "100 Days Frontend Challenge",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/100days.jpg",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/100days.jpg",
       "description": "Conquered the 100 Days Frontend Challenge, crafting captivating web interfaces and pushing my creative and coding boundaries.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["html5","CSS","cssmodules","javascript"]
     },
    {
       "project_name": "50 Days Blender Challenge",
-      "image_url": "https://ratheeshcoder.github.io/portfolio/assets/50days.webp",
+      "image_url": "https://iamratheesh.github.io/portfolio/assets/50days.webp",
       "description": "Embarked on a transformative journey with the 50 Days Blender Challenge, mastering the art of 3D creation one day at a time.",
-      "source_link": "https://github.com/ratheeshcoder",
+      "source_link": "https://github.com/iamratheesh",
       "live_link": "N/A",
       "tech_stack": ["Blender"]
     }
